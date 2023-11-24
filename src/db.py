@@ -10,5 +10,3 @@ with open('tables.sql') as f:
 
 conn.commit()
 conn.close()
-
-print("cioa")
